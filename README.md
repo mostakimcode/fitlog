@@ -39,7 +39,6 @@ The interface uses a dark theme with lime-green accents, Oswald headings, and In
 
 ## ✨ Key Features
 
-
 ### 1.  Workout Library
 The home page opens with a hero banner and a responsive grid of workout cards. The catalog is fetched on the server, so the page arrives fully rendered. Each card shows the target muscle groups, equipment, duration, calories burned, and rating at a glance.
 
