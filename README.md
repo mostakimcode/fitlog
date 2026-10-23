@@ -23,6 +23,7 @@ A dark, no-nonsense gym companion: pick a lift, lock it into today's plan, and w
 
 The interface uses a dark theme with lime-green accents, Oswald headings, and Inter body text.
 
+
 ## 🛠️ Technologies Used
 
 | Category | Technology |
