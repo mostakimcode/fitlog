@@ -45,6 +45,7 @@ The home page opens with a hero banner and a responsive grid of workout cards. T
 ### 2.  Detailed Workout Pages
 Every lift has its own dynamic route (`/workouts/[id]`) with a large image, description, muscle-group tags, and a spec table covering equipment, difficulty, sets, reps, duration, calories, and rating. Numbered, step-by-step instructions sit below. Unknown IDs resolve to a custom "Lift not found" 404 page, and route-level loading states keep navigation smooth.
 
+
 ### 3.  Daily Plan Builder
 Add any workout to today's plan with one click. The plan is **capped at five lifts** to keep sessions focused, and the app blocks duplicates and disables the button once the plan is full. Finished lifts can be marked as **done**, which strikes them through and locks the button. The plan is saved to `localStorage`, so it survives refreshes.
 
